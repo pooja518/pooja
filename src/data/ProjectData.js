@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/Interviewmate.png",
+    img: "/kitchen-krafted-high-resolution-logo.png",
     title: "Kitchen Krafted",
     description:
       "A full-stack e-commerce solution for kitchen-ware shopping.",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/sports-pulse.png",
+    img: "/event-scheduler-high-resolution-logo.png",
     title: "Event Scheduler",
     description:
       "An interactive event scheduling full stack application.",
@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "event-scheduler-3kpq.onrender.com",
   },
   {
-    img: "/promptify.png",
+    img: "/taskly-high-resolution-logo (2).png",
     title: "Taskly",
     description:
       "Efficient server-side to-do lists with Node.js and Express.js",
@@ -28,7 +28,7 @@ export const ProjectList = [
     demo_url: "todolist-service-dmp9.onrender.com",
   },
   {
-    img: "/sports-connect.png",
+    img: "/deep-face-recognition-high-resolution-logo.png",
     title: "•Deep Face Recognition",
     description:
       "Improving facial recognition using deep learning techniques",
