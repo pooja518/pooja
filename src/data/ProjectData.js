@@ -32,7 +32,7 @@ export const ProjectList = [
     title: "•Deep Face Recognition",
     description:
       "Improving facial recognition using deep learning techniques",
-    tech_stack: ["Mtcnn, Matplotlib, Numpy"],
+    tech_stack: ["Mtcnn", "Matplotlib", "Numpy"],
     github_url: "",
     demo_url: "",
   }
